@@ -1,0 +1,25 @@
+<svg width="1400" height="500" viewBox="0 0 1400 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="500"><stop stop-color="#08101D"/><stop offset="1" stop-color="#11172A"/></linearGradient>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A78BFA"/><stop offset=".5" stop-color="#38BDF8"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+</defs>
+<rect width="1400" height="500" rx="36" fill="url(#bg)"/>
+<text x="75" y="76" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="800">Currently Exploring</text>
+<text x="75" y="110" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Technologies and engineering areas I’m actively strengthening.</text>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <rect x="70" y="150" width="395" height="125" rx="26" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".14"/>
+ <text x="100" y="190" fill="#A78BFA" font-size="14" font-weight="700">AI AGENTS</text><text x="100" y="229" fill="#FFFFFF" font-size="20" font-weight="700">Agentic Workflows</text><text x="100" y="254" fill="#AEB9CF" font-size="15">Intelligent automation</text>
+ <rect x="503" y="150" width="395" height="125" rx="26" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".14"/>
+ <text x="533" y="190" fill="#67E8F9" font-size="14" font-weight="700">OPENAI AGENT BUILDER</text><text x="533" y="229" fill="#FFFFFF" font-size="20" font-weight="700">Hands-on Exposure</text><text x="533" y="254" fill="#AEB9CF" font-size="15">Exploring agent workflows</text>
+ <rect x="935" y="150" width="395" height="125" rx="26" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".14"/>
+ <text x="965" y="190" fill="#34D399" font-size="14" font-weight="700">SYSTEM DESIGN</text><text x="965" y="229" fill="#FFFFFF" font-size="20" font-weight="700">Scalable Architecture</text><text x="965" y="254" fill="#AEB9CF" font-size="15">Reliable backend systems</text>
+
+ <rect x="70" y="302" width="395" height="125" rx="26" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".14"/>
+ <text x="100" y="342" fill="#38BDF8" font-size="14" font-weight="700">REACT</text><text x="100" y="381" fill="#FFFFFF" font-size="20" font-weight="700">Frontend Fundamentals</text><text x="100" y="406" fill="#AEB9CF" font-size="15">Strengthening practical skills</text>
+ <rect x="503" y="302" width="395" height="125" rx="26" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".14"/>
+ <text x="533" y="342" fill="#60A5FA" font-size="14" font-weight="700">AUTOMATION</text><text x="533" y="381" fill="#FFFFFF" font-size="20" font-weight="700">Power Automate</text><text x="533" y="406" fill="#AEB9CF" font-size="15">Microsoft Graph integrations</text>
+ <rect x="935" y="302" width="395" height="125" rx="26" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".14"/>
+ <text x="965" y="342" fill="#7DD3FC" font-size="14" font-weight="700">PERFORMANCE</text><text x="965" y="381" fill="#FFFFFF" font-size="20" font-weight="700">Backend Optimization</text><text x="965" y="406" fill="#AEB9CF" font-size="15">Efficient processing</text>
+</g>
+<rect x="70" y="460" width="420" height="5" rx="2.5" fill="url(#a)"/>
+</svg>
