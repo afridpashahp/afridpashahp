@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Afrid Pasha</h1>
 
-<h3 align="center">Backend Engineer • AI Enthusiast</h3>
+<h3 align="center">Software Developer • AI Enthusiast</h3>
 
 <p align="center">
   Building reliable backend systems and exploring modern AI technologies.
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/afrid-pasha-h-p-212384211">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:afridpashahp7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a backend engineer passionate about building scalable applications, solving complex engineering problems, and exploring practical applications of AI.
+I'm a software developer passionate about building scalable backend applications, solving complex engineering problems, and exploring practical applications of AI.
 
 * 💻 Working primarily with **Java, Spring Boot, MySQL & REST APIs**
 * ⚡ Interested in **backend performance optimization**
@@ -100,25 +100,28 @@ I'm particularly interested in exploring how **modern AI technologies can comple
 
 ---
 
+## ✨ Beyond the Code
+
+* 🧩 I enjoy solving complex problems and debugging tricky issues
+* 📚 Continuously learning and improving my engineering skills
+* 🤖 Fascinated by the evolution of AI and intelligent software
+* ⚡ Always looking for simpler and more efficient solutions
+
+---
+
 ## 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/afrid-pasha-h-p-212384211">
-  <img src="https://img.shields.io/badge/LinkedIn-Afrid_Pasha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/afrid-pasha-h-p-212384211">
+    <img src="https://img.shields.io/badge/LinkedIn-Afrid_Pasha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:afridpashahp7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-## ✨ Beyond the Code
 
-- 🧩 I enjoy solving complex problems and debugging tricky issues
-- 📚 Continuously learning and improving my engineering skills
-- 🤖 Fascinated by the evolution of AI and intelligent software
-- ⚡ Always looking for simpler and more efficient solutions
----
 <p align="center">
   <i>Always learning. Always building. 🚀</i>
 </p>
