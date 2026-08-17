@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-glass.svg" alt="Afrid Pasha — Software Developer • AI Enthusiast" width="100%" />
+<img src="./assets/hero-glass.svg" alt="Afrid Pasha H P — Software Developer • AI Enthusiast" width="100%" />
 
 <br/>
 
