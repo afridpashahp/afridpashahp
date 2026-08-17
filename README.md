@@ -13,41 +13,46 @@
   <a href="mailto:afridpashahp7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/afridpashahp">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a software developer passionate about building scalable backend applications, solving complex engineering problems, and exploring practical applications of AI.
+I'm a software developer passionate about building scalable backend applications, solving complex engineering problems, and exploring practical applications of AI and automation.
 
 * 💻 Working primarily with **Java, Spring Boot, MySQL & REST APIs**
 * ⚡ Interested in **backend performance optimization**
-* 🤖 Exploring **Generative AI & AI Agents**
+* 🤖 Exploring **Generative AI, LLMs & AI Agents**
+* ⚙️ Building automated workflows with **Microsoft Power Automate**
+* 🔗 Exploring integrations using **Microsoft Graph API**
 * 🏗️ Learning more about **System Design & scalable architecture**
-* 🔍 I enjoy debugging, optimization, and solving real-world engineering problems
+* 🔍 I enjoy debugging and solving challenging engineering problems
 * 🌱 Always learning and experimenting with new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### 💻 Backend
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### AI
+### 🤖 AI
 
 <p>
   <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
@@ -55,7 +60,15 @@ I'm a software developer passionate about building scalable backend applications
   <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### Tools
+### ⚙️ Automation & Integration
+
+<p>
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### 🔧 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -69,34 +82,39 @@ I'm a software developer passionate about building scalable backend applications
 ## 💡 Areas of Interest
 
 <p align="center">
-  Backend Engineering • System Design • Artificial Intelligence • Automation
+  <b>Backend Engineering</b> •
+  <b>System Design</b> •
+  <b>Artificial Intelligence</b> •
+  <b>Automation</b> •
+  <b>API Integration</b>
 </p>
 
-I'm particularly interested in exploring how **modern AI technologies can complement traditional backend engineering** to build smarter and more efficient software systems.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-</p>
+I'm particularly interested in exploring how **modern AI and automation technologies can complement traditional backend engineering** to build smarter, scalable, and more efficient software systems.
 
 ---
 
 ## 🌱 Currently Exploring
 
-* 🤖 AI Agents
+* 🤖 AI Agents & Agentic Workflows
 * 🧠 Large Language Models
 * 🔗 AI + Backend Integrations
+* ⚙️ Workflow Automation
+* 🔷 Microsoft Graph API
 * 🏗️ System Design
 * ⚡ Backend Performance Engineering
-* 📊 Scalable Data Processing
+
+---
+
+## 🎯 Engineering Focus
+
+<p align="center">
+  <code>Backend Development</code>
+  <code>Clean Code</code>
+  <code>Performance</code>
+  <code>System Design</code>
+  <code>AI</code>
+  <code>Automation</code>
+</p>
 
 ---
 
@@ -105,6 +123,7 @@ I'm particularly interested in exploring how **modern AI technologies can comple
 * 🧩 I enjoy solving complex problems and debugging tricky issues
 * 📚 Continuously learning and improving my engineering skills
 * 🤖 Fascinated by the evolution of AI and intelligent software
+* ⚙️ Interested in finding opportunities to automate repetitive processes
 * ⚡ Always looking for simpler and more efficient solutions
 
 ---
@@ -118,10 +137,17 @@ I'm particularly interested in exploring how **modern AI technologies can comple
   <a href="mailto:afridpashahp7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/afridpashahp">
+    <img src="https://img.shields.io/badge/GitHub-afridpashahp-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Always learning. Always building. 🚀</i>
+  <b>Building • Learning • Improving</b>
+</p>
+
+<p align="center">
+  🚀
 </p>
