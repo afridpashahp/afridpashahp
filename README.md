@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-glass.svg" width="100%" alt="Afrid Pasha — Software Developer and AI Enthusiast" />
+<img src="./assets/hero-glass.svg" width="100%" alt="Afrid Pasha H P — Software Developer and AI Enthusiast" />
 
 <br/><br/>
 
@@ -78,10 +78,6 @@
 <a href="https://github.com/afridpashahp">
   <img src="https://img.shields.io/badge/GitHub-afridpashahp-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<sub>BUILDING • LEARNING • IMPROVING</sub>
 
 <br/><br/>
 
