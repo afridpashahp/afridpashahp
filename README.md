@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-glass.svg" width="100%" alt="Afrid Pasha H P — Software Developer and AI Enthusiast" />
+<img src="./assets/hero-glass.svg" width="100%" alt="Afrid Pasha — Software Developer and AI Enthusiast" />
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="./assets/tech-stack-glass.svg" width="100%" alt="Tech Stack" />
+<img src="./assets/tech-stack-glass.svg" width="100%" alt="Tech Stack — Java, Spring Boot, MySQL, JavaScript, AI and Automation" />
 
 <br/>
 
@@ -45,25 +45,11 @@
 
 <br/>
 
-## 04 / AI + Engineering
-
-<div align="center">
-
-### Backend Engineering × Artificial Intelligence × Automation
-
-I’m interested in how modern AI capabilities can complement traditional backend engineering to build smarter, scalable and more efficient software systems.
-
-`AI Agents`　•　`LLMs`　•　`OpenAI Agent Builder`　•　`Power Automate`　•　`Microsoft Graph`
-
-</div>
+<img src="./assets/exploring-glass.svg" width="100%" alt="Currently Exploring — AI Agents, OpenAI Agent Builder, System Design, React, Automation and Performance" />
 
 <br/>
 
-<img src="./assets/exploring-glass.svg" width="100%" alt="Currently Exploring" />
-
-<br/>
-
-## 06 / Engineering Mindset
+## 05 / Engineering Mindset
 
 <div align="center">
 
@@ -71,9 +57,9 @@ I’m interested in how modern AI capabilities can complement traditional backen
 
 <br/>
 
-**Backend Engineering**　•　**System Design**　•　**Performance**
+`Backend Engineering`　•　`System Design`　•　`Performance Optimization`
 
-**AI Integration**　•　**Automation**　•　**Clean Code**
+`AI Integration`　•　`Automation`　•　`Clean Code`
 
 </div>
 
